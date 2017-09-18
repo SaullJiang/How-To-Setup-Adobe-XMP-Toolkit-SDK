@@ -2,8 +2,8 @@
 //  XMPUtils.h
 //  XMPToolKitSDK-iOS-Sample
 //
-//  Created by 石塚隆一 on 2017/09/16.
-//  Copyright © 2017年 石塚隆一. All rights reserved.
+//  Created by ryu1 on 2017/09/16.
+//  Copyright © 2017年 ryu1. All rights reserved.
 //
 #import <Foundation/Foundation.h>
 
