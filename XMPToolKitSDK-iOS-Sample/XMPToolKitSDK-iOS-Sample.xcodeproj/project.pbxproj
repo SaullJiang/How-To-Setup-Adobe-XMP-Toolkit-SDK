@@ -314,6 +314,10 @@
 				CLANG_CXX_LIBRARY = "libstdc++";
 				CLANG_ENABLE_MODULES = YES;
 				DEVELOPMENT_TEAM = CM48MW8QTW;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"IOS_ENV=1",
+				);
 				INFOPLIST_FILE = "XMPToolKitSDK-iOS-Sample/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				LIBRARY_SEARCH_PATHS = (
@@ -338,6 +342,7 @@
 				CLANG_CXX_LIBRARY = "libstdc++";
 				CLANG_ENABLE_MODULES = YES;
 				DEVELOPMENT_TEAM = CM48MW8QTW;
+				GCC_PREPROCESSOR_DEFINITIONS = "IOS_ENV=1";
 				INFOPLIST_FILE = "XMPToolKitSDK-iOS-Sample/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				LIBRARY_SEARCH_PATHS = (
