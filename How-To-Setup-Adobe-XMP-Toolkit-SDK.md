@@ -365,6 +365,8 @@ cp -rf public ../../XMPToolKitSDK-iOS-Sample/XMP-Toolkit-SDK
 
 * libstdc++ (GNU C++ standard library)
 
+`iOS_ENV=1`を、`Targets > XMPToolKitSDK-iOS-Sample > Build Settings > Apple LLVM 8.1 - Preprocessing > Preprocessor Macros`に追加します。
+
 最後に、簡単なサンプルを以下に作成しました。
 
 * XMP-Toolkit-SDK-Workspace/XMPToolKitSDK-iOS-Sample/XMPToolKitSDK-iOS-Sample/ViewController.swift
