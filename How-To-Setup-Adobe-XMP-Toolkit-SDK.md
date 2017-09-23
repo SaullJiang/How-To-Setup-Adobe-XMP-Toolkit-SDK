@@ -369,9 +369,7 @@ cp -rf public ../../XMPToolKitSDK-iOS-Sample/XMP-Toolkit-SDK
 
 最後に、簡単なサンプルを以下に作成しました。
 
-* XMP-Toolkit-SDK-Workspace/XMPToolKitSDK-iOS-Sample/XMPToolKitSDK-iOS-Sample/ViewController.swift
-
-* XMP-Toolkit-SDK-Workspace/XMPToolKitSDK-iOS-Sample/XMPToolKitSDK-iOS-Sample/XMPUtils.mm
+https://github.com/ryu1/XMP-Toolkit-SDK-Workspace/tree/master/XMPToolKitSDK-iOS-Sample/
 
 ライブラリが、C++で書かれているので、直接、呼び出さず、一旦、.mmファイルでWRAPします。(なぜか、.mファイルから直接呼び出すとheaderファイルをC言語と解釈してしまうようです。)
 
